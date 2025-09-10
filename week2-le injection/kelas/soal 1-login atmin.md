@@ -15,3 +15,4 @@ soal pun terselesaikan
 <img width="1808" height="803" alt="image" src="https://github.com/user-attachments/assets/1340a5bb-1b25-4f93-8436-fbe9ac2eafb7" />
 
 
+
